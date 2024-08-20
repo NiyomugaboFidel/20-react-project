@@ -1,0 +1,99 @@
+{
+  "products": [
+    {
+      "id": "99848b03-f962-4837-b29e-935364242519",
+      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "price": "$109.95",
+      "isAvailable": true,
+      "images": [
+        "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+      ]
+    },
+    {
+      "id": "59201e8c-4f34-4eda-aa15-5f968586f2d2",
+      "title": "Mens Casual Premium Slim Fit T-Shirts",
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, lightweight & soft cotton fabric, sleeve button-up point",
+      "price": "$22.30",
+      "isAvailable": true,
+      "images": [
+        "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+        "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+        "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+      ]
+    },
+    {
+      "id": "acf631b7-588b-4cd9-b848-b61c8491b579",
+      "title": "Mens Cotton Jacket",
+      "description": "Lightweight Mens Cotton Jacket",
+      "price": "$55.99",
+      "isAvailable": true,
+      "images": [
+        "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+        "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
+      ]
+    },
+    {
+      "id": "ad442815-97b3-4cbe-8a95-0daeb5325a0f",
+      "title": "Mens Casual Slim Fit",
+      "description": "Mens Casual Slim Fit T-shirt Mens Casual Slim Fit T-shirt Mens Casual Slim Fit T-shirt",
+      "price": "$15.99",
+      "isAvailable": true,
+      "images": [
+        "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+        "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
+      ]
+    },
+    {
+      "id": "4e469de5-b84f-4817-a2d5-aecddf05c916",
+      "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the oceans pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "price": "$695.00",
+      "isAvailable": true,
+      "images": [
+        "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
+      ]
+    },
+    {
+      "id": "4e469de5-b84f-4817-a2d5-aecddf05c916",
+      "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the oceans pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "price": "$695.00",
+      "isAvailable": true,
+      "images": [
+        "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
+      ]
+    },
+    {
+      "id": "3815",
+      "title": "Product -4",
+      "price": "$300",
+      "description": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg Product -4",
+      "images": [
+        "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg"
+      ]
+    },
+    {
+      "id": "538d",
+      "title": "tttt",
+      "price": "$300",
+      "description": "cat application",
+      "isAvailable": true,
+      "images": [
+        "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+        "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg"
+      ]
+    }
+  ]
+}

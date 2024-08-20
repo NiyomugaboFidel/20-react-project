@@ -1,0 +1,32 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "Understanding Async/Await in JavaScript",
+      "description": "A deep dive into asynchronous programming with async/await.",
+      "image": "https://via.placeholder.com/400x300",
+      "likes": 1
+    },
+    {
+      "id": "2",
+      "title": "Modern CSS Grid Layout Techniques",
+      "description": "How to use CSS Grid Layout to create responsive designs.",
+      "image": "https://via.placeholder.com/400x300",
+      "likes": 1
+    },
+    {
+      "id": "3",
+      "title": "Exploring RESTful APIs",
+      "description": "A guide to working with RESTful APIs in modern web applications.",
+      "image": "https://via.placeholder.com/400x300",
+      "likes": 1
+    },
+    {
+      "id": "4",
+      "title": "Getting Started with React Hooks",
+      "description": "Introduction to React Hooks for managing state and effects.",
+      "image": "https://via.placeholder.com/400x300",
+      "likes": 0
+    }
+  ]
+}

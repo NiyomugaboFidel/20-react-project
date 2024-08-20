@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="min-h-screen flex items-center justify-center bg-gray-100">
+        <div class="bg-white p-8 rounded-lg shadow-lg w-full max-w-md">
+            <form id="productForm" class="space-y-4">
+                <h1 class="text-center font-bold text-2xl text-gray-800">Create Product</h1>
+                <input class="w-full p-2 rounded-lg border-2 border-gray-300 focus:outline-none focus:border-indigo-500" type="text" placeholder="Title" id="title">
+                <input class="w-full p-2 rounded-lg border-2 border-gray-300 focus:outline-none focus:border-indigo-500" type="text" placeholder="Price" id="price">
+                <input class="w-full p-2 rounded-lg border-2 border-gray-300 focus:outline-none focus:border-indigo-500" type="text" placeholder="Image URL 1" id="image1">
+                <input class="w-full p-2 rounded-lg border-2 border-gray-300 focus:outline-none focus:border-indigo-500" type="text" placeholder="Image URL 2" id="image2">
+                <input class="w-full p-2 rounded-lg border-2 border-gray-300 focus:outline-none focus:border-indigo-500" type="text" placeholder="Image URL 3" id="image3">
+                <textarea class="w-full p-2 rounded-lg border-2 border-gray-300 focus:outline-none focus:border-indigo-500" placeholder="Description" id="description"></textarea>
+                <button id="button" class="w-full py-2 rounded-lg bg-indigo-500 text-white font-semibold hover:bg-indigo-600 focus:outline-none">Post</button>
+            </form>
+        </div>
+    </div>
+    <script src="./form.js"></script>
+</body>
+</html>

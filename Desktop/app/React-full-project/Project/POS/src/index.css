@@ -1,0 +1,79 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,500&family=Quicksand:wght@300..700&family=Quintessential&family=Shippori+Antique&family=Truculenta:opsz,wdth,wght@12..72,75,100..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+    font-family: 'Poppins', sans-serif;
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+}
+/*  ---------------SMOOTH SCROLL------------- */
+html{
+    scroll-behavior: smooth;
+}
+/*------ CHANGE THE SCOROLL BAR DESIGN------------ */
+::-webkit-scrollbar{
+    width:10px ;
+    border-radius: 25px;
+}
+::-webkit-scrollbar-track{
+    background: #f1f1f1;
+}
+::-webkit-scrollbar-thumb{
+    background: #ccc;
+    border-radius: 30px;
+}
+::-webkit-scrollbar-thumb:hover{
+    background: #bbb;
+}
+
+
+
+
+
+body{
+    background: white;
+}
+
+li{
+    list-style: none;
+    cursor: pointer;
+    position: relative;
+}
+
+.menu li:hover::before{
+    position: absolute;
+    content: '';
+    height:4px;
+    width: 100%;
+    background: #2a68ff;
+    right: 0;
+    bottom: 12px;
+    color: #2a68ff;
+
+}
+
+.icon{
+    cursor: pointer;
+}
+
+.company-logo{
+    width: 35px;
+    height: 35px;
+    cursor: pointer;
+    object-fit: cover;
+    object-position: center;
+}
+
+/* .card{
+    background: #000;
+} */
